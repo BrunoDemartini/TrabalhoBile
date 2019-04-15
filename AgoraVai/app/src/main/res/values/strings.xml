@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgoraVai</string>
+    <string name="Informacoes">Missão: Oferecer: produtos e serviços na área gastronômica, valorizando o aspecto nutritivo, a qualidade, o sabor e a correta técnica de elaboração de cada alimento, para contribuir com a satisfação de nossos clientes e oferecendo um atendimento diferenciado.</string>
+    <string name="horarios">Segunda a Terça: 11:30 as 13:00</string>
+    <string name="horarios2">Quarta a Sábado: 11:30 as 13:30 e 18:00 as 20:00</string>
+    <string name="cardapio">Veja no site: http://www.bilekos.com.br/cardapio/</string>
+</resources>
